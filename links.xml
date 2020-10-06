@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pages>
+  <link>
+    <title>Registrar Cliente</title>
+    <url>ayuda.php/#collapseOne</url>
+  </link>
+  <link>
+    <title>Ver Registro</title>
+    <url>ayuda.php/#collapseTwo</url>
+  </link>
+  <link>
+    <title>Modificar Cliente</title>
+    <url>ayuda.php/#collapseThree</url>
+  </link>
+  <link>
+    <title>Eliminar Cliente</title>
+    <url>ayuda.php/#collapseFour</url>
+  </link>
+  <link>
+    <title>Cambiar Contraseña</title>
+    <url>ayuda.php/#collapseFive</url>
+  </link>
+  <link>
+    <title>Realizar un respaldo de la Base de Datos</title>
+    <url>ayuda.php/#collapseSix</url>
+  </link>
+  <link>
+    <title>Restaurar Base de Datos</title>
+    <url>ayuda.php/#collapseSeven</url>
+  </link>
+  <link>
+    <title>Bitacora</title>
+    <url>ayuda.php/#collapseEight</url>
+  </link>
+</pages>
